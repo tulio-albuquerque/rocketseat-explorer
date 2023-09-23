@@ -22,6 +22,7 @@ nav {
   align-items: center;
 
   margin-bottom: 55px;
+  font-family: "Mulish", sans-serif;
 }
 
 ul {
@@ -92,10 +93,10 @@ button {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  cursor: pointer;
 }
 
 button:hover {
-  cursor: pointer;
   background: #4ea788;
 }
 
